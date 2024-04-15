@@ -23,10 +23,6 @@ public:
         if(root==NULL){
             return NULL;
         }
-        // if(root->next==NULL){
-        //     root->right=NULL;
-        //     return root;
-        // }
         
         queue<Node*> q;
         q.push(root);
@@ -34,21 +30,16 @@ public:
         while(!q.empty()){
             
             int ln=q.size();
-            // cout<<ln<<" ";
             for(int i=0;i<ln;i++){
             Node*t=q.front();
             q.pop();
                 if(i!=ln-1){
                     t->next=q.front();
                 }
-                // if (i==ln-1){
-                //     t->next=NULL;
-                // }
                 if(t->left) q.push(t->left);
                 if(t->right) q.push(t->right);
             }
         }
-        // cout<<q.front();
         return root;
     }
 };
