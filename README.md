@@ -14,3 +14,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/rohit141914/LeetCode/tree/master/0503-next-greater-element-ii) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/rohit141914/LeetCode/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
