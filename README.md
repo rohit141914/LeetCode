@@ -78,4 +78,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0890-lemonade-change](https://github.com/rohit141914/LeetCode/tree/master/0890-lemonade-change) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rohit141914/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/rohit141914/LeetCode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
