@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/rohit141914/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rohit141914/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rohit141914/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2411-spiral-matrix-iv](https://github.com/rohit141914/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2727-number-of-senior-citizens](https://github.com/rohit141914/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rohit141914/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/rohit141914/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rohit141914/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rohit141914/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rohit141914/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2411-spiral-matrix-iv](https://github.com/rohit141914/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## String
 |  |
 | ------- |
@@ -106,4 +108,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rohit141914/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rohit141914/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/rohit141914/LeetCode/tree/master/2411-spiral-matrix-iv) |
+## Linked List
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/rohit141914/LeetCode/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
