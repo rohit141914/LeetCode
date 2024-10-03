@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohit141914/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0890-lemonade-change](https://github.com/rohit141914/LeetCode/tree/master/0890-lemonade-change) |
+| [1256-rank-transform-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/rohit141914/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rohit141914/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rohit141914/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit141914/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohit141914/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rohit141914/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1256-rank-transform-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rohit141914/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rohit141914/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rohit141914/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohit141914/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rohit141914/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rohit141914/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rohit141914/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
