@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohit141914/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/rohit141914/LeetCode/tree/master/0443-string-compression) |
 | [1923-sentence-similarity-iii](https://github.com/rohit141914/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rohit141914/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rohit141914/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit141914/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/rohit141914/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0443-string-compression](https://github.com/rohit141914/LeetCode/tree/master/0443-string-compression) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rohit141914/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rohit141914/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rohit141914/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
