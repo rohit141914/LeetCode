@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/rohit141914/LeetCode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rohit141914/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohit141914/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/rohit141914/LeetCode/tree/master/0443-string-compression) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/rohit141914/LeetCode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rohit141914/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [2411-spiral-matrix-iv](https://github.com/rohit141914/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rohit141914/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
