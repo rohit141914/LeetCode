@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/rohit141914/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rohit141914/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3451-string-compression-iii](https://github.com/rohit141914/LeetCode/tree/master/3451-string-compression-iii) |
+| [3636-check-balanced-string](https://github.com/rohit141914/LeetCode/tree/master/3636-check-balanced-string) |
 ## Math
 |  |
 | ------- |
