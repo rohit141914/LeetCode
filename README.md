@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit141914/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/rohit141914/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rohit141914/LeetCode/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/rohit141914/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/rohit141914/LeetCode/tree/master/0217-contains-duplicate) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit141914/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/rohit141914/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/rohit141914/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/rohit141914/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rohit141914/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohit141914/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/rohit141914/LeetCode/tree/master/0242-valid-anagram) |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rohit141914/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rohit141914/LeetCode/tree/master/0013-roman-to-integer) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rohit141914/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rohit141914/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
