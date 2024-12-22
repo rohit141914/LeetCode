@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rohit141914/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rohit141914/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rohit141914/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rohit141914/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rohit141914/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rohit141914/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rohit141914/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rohit141914/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rohit141914/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rohit141914/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rohit141914/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rohit141914/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/rohit141914/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rohit141914/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rohit141914/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rohit141914/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rohit141914/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/rohit141914/LeetCode/tree/master/1894-merge-strings-alternately) |
