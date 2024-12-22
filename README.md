@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/rohit141914/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohit141914/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1035-cousins-in-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rohit141914/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohit141914/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0676-implement-magic-dictionary](https://github.com/rohit141914/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [1035-cousins-in-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rohit141914/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/rohit141914/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohit141914/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1035-cousins-in-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rohit141914/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Simulation
@@ -311,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/rohit141914/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohit141914/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1035-cousins-in-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rohit141914/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String Matching
