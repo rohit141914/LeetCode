@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rohit141914/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rohit141914/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rohit141914/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rohit141914/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rohit141914/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rohit141914/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rohit141914/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit141914/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/rohit141914/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rohit141914/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/rohit141914/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Monotonic Stack
 |  |
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rohit141914/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2721-sum-of-distances](https://github.com/rohit141914/LeetCode/tree/master/2721-sum-of-distances) |
 ## Heap (Priority Queue)
 |  |
