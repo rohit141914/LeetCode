@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rohit141914/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rohit141914/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/rohit141914/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/rohit141914/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/rohit141914/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rohit141914/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rohit141914/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rohit141914/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rohit141914/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2358-number-of-ways-to-split-array](https://github.com/rohit141914/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2721-sum-of-distances](https://github.com/rohit141914/LeetCode/tree/master/2721-sum-of-distances) |
 ## Heap (Priority Queue)
 |  |
