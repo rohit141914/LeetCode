@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/rohit141914/LeetCode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/rohit141914/LeetCode/tree/master/0443-string-compression) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rohit141914/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0583-delete-operation-for-two-strings](https://github.com/rohit141914/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0676-implement-magic-dictionary](https://github.com/rohit141914/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/rohit141914/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0812-rotate-string](https://github.com/rohit141914/LeetCode/tree/master/0812-rotate-string) |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/rohit141914/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohit141914/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/rohit141914/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0583-delete-operation-for-two-strings](https://github.com/rohit141914/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/rohit141914/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 ## Breadth-First Search
 |  |
