@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0978-valid-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1002-maximum-width-ramp](https://github.com/rohit141914/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rohit141914/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1185-find-in-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1256-rank-transform-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/rohit141914/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rohit141914/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohit141914/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rohit141914/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1185-find-in-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rohit141914/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Sorting
@@ -524,4 +526,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohit141914/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
