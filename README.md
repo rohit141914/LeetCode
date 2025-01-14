@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2669-find-the-substring-with-maximum-cost](https://github.com/rohit141914/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rohit141914/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2721-sum-of-distances](https://github.com/rohit141914/LeetCode/tree/master/2721-sum-of-distances) |
+| [3412-permutation-difference-between-two-strings](https://github.com/rohit141914/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rohit141914/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rohit141914/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rohit141914/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rohit141914/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rohit141914/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3412-permutation-difference-between-two-strings](https://github.com/rohit141914/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/rohit141914/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/rohit141914/LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rohit141914/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
