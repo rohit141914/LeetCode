@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/rohit141914/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rohit141914/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2465-shifting-letters-ii](https://github.com/rohit141914/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2504-find-all-good-indices](https://github.com/rohit141914/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/rohit141914/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rohit141914/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/rohit141914/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
@@ -448,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-longest-mountain-in-array](https://github.com/rohit141914/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/rohit141914/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2504-find-all-good-indices](https://github.com/rohit141914/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/rohit141914/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 ## Breadth-First Search
 |  |
@@ -508,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2205-find-good-days-to-rob-the-bank](https://github.com/rohit141914/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2358-number-of-ways-to-split-array](https://github.com/rohit141914/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/rohit141914/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2504-find-all-good-indices](https://github.com/rohit141914/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rohit141914/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2721-sum-of-distances](https://github.com/rohit141914/LeetCode/tree/master/2721-sum-of-distances) |
 | [3647-zero-array-transformation-iii](https://github.com/rohit141914/LeetCode/tree/master/3647-zero-array-transformation-iii) |
