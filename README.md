@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2122-count-special-quadruplets](https://github.com/rohit141914/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rohit141914/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rohit141914/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/rohit141914/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2232-adding-spaces-to-a-string](https://github.com/rohit141914/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rohit141914/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rohit141914/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rohit141914/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/rohit141914/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/rohit141914/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/rohit141914/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 ## Breadth-First Search
 |  |
@@ -499,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rohit141914/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rohit141914/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2102-find-the-middle-index-in-array](https://github.com/rohit141914/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/rohit141914/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2358-number-of-ways-to-split-array](https://github.com/rohit141914/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/rohit141914/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rohit141914/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
