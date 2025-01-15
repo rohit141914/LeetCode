@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/rohit141914/LeetCode/tree/master/0518-coin-change-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rohit141914/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohit141914/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0665-non-decreasing-array](https://github.com/rohit141914/LeetCode/tree/master/0665-non-decreasing-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rohit141914/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/rohit141914/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/rohit141914/LeetCode/tree/master/0682-baseball-game) |
