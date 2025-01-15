@@ -14,13 +14,7 @@ public:
                 lds[i]=lds[i+1]+1;
             }
         }
-        for(auto a:lds){
-            cout<<a<<' ';
-        }
-        cout<<'-';
-        for(auto a:lis){
-            cout<<a<<' ';
-        }
+
         vector<int>res;
         for(int i=time;i<l-time;i++){
             if(lds[i]>=time&&lis[i]>=time){
