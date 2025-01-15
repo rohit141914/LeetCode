@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/rohit141914/LeetCode/tree/master/0518-coin-change-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rohit141914/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohit141914/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rohit141914/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/rohit141914/LeetCode/tree/master/0682-baseball-game) |
 | [0720-longest-word-in-dictionary](https://github.com/rohit141914/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rohit141914/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -430,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/rohit141914/LeetCode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/rohit141914/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohit141914/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rohit141914/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/rohit141914/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/rohit141914/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
@@ -538,4 +540,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/1185-find-in-mountain-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rohit141914/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rohit141914/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
