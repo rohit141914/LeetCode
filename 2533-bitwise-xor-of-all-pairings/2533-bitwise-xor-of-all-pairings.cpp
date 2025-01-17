@@ -13,10 +13,8 @@ public:
                 break;
             }
         }
-        // cout<<l1<<'-';
         for(int i=0;i<l1;i++){
             if(l%2==1){
-            // cout<<i<<' ';
                 ans=ans^nums2[i];
             }
             else{
