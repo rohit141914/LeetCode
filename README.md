@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/rohit141914/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rohit141914/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2465-shifting-letters-ii](https://github.com/rohit141914/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/rohit141914/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2504-find-all-good-indices](https://github.com/rohit141914/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rohit141914/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/rohit141914/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rohit141914/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/rohit141914/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/rohit141914/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/rohit141914/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rohit141914/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rohit141914/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2331-intersection-of-multiple-arrays](https://github.com/rohit141914/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/rohit141914/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rohit141914/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/rohit141914/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rohit141914/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3647-zero-array-transformation-iii](https://github.com/rohit141914/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -332,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rohit141914/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/rohit141914/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rohit141914/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/rohit141914/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3647-zero-array-transformation-iii](https://github.com/rohit141914/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Bit Manipulation
 |  |
