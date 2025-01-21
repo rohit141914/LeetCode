@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1829-maximum-units-on-a-truck](https://github.com/rohit141914/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1923-sentence-similarity-iii](https://github.com/rohit141914/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rohit141914/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/rohit141914/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/rohit141914/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2122-count-special-quadruplets](https://github.com/rohit141914/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rohit141914/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1894-merge-strings-alternately](https://github.com/rohit141914/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/rohit141914/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rohit141914/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/rohit141914/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rohit141914/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/rohit141914/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/rohit141914/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1970-sorting-the-sentence](https://github.com/rohit141914/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rohit141914/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/rohit141914/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/rohit141914/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rohit141914/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/rohit141914/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/rohit141914/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
