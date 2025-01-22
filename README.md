@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0978-valid-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1002-maximum-width-ramp](https://github.com/rohit141914/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rohit141914/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1127-last-stone-weight](https://github.com/rohit141914/LeetCode/tree/master/1127-last-stone-weight) |
 | [1185-find-in-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1256-rank-transform-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/rohit141914/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -559,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohit141914/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/rohit141914/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [1127-last-stone-weight](https://github.com/rohit141914/LeetCode/tree/master/1127-last-stone-weight) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rohit141914/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/rohit141914/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rohit141914/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
