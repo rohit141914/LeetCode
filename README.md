@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0978-valid-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1002-maximum-width-ramp](https://github.com/rohit141914/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rohit141914/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/rohit141914/LeetCode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1127-last-stone-weight](https://github.com/rohit141914/LeetCode/tree/master/1127-last-stone-weight) |
 | [1185-find-in-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1256-rank-transform-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/rohit141914/LeetCode/tree/master/0476-number-complement) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/rohit141914/LeetCode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rohit141914/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/rohit141914/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rohit141914/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
