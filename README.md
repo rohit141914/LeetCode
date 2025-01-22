@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rohit141914/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rohit141914/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rohit141914/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/rohit141914/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rohit141914/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/rohit141914/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rohit141914/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -546,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/rohit141914/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/rohit141914/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rohit141914/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/rohit141914/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rohit141914/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3647-zero-array-transformation-iii](https://github.com/rohit141914/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Recursion
