@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2669-find-the-substring-with-maximum-cost](https://github.com/rohit141914/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rohit141914/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rohit141914/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/rohit141914/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2721-sum-of-distances](https://github.com/rohit141914/LeetCode/tree/master/2721-sum-of-distances) |
 | [2727-number-of-senior-citizens](https://github.com/rohit141914/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3114-beautiful-towers-i](https://github.com/rohit141914/LeetCode/tree/master/3114-beautiful-towers-i) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rohit141914/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/rohit141914/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rohit141914/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/rohit141914/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rohit141914/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1185-find-in-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rohit141914/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/rohit141914/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Sorting
 |  |
 | ------- |
@@ -242,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rohit141914/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rohit141914/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/rohit141914/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3647-zero-array-transformation-iii](https://github.com/rohit141914/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
 |  |
@@ -368,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/rohit141914/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rohit141914/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rohit141914/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/rohit141914/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3647-zero-array-transformation-iii](https://github.com/rohit141914/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Bit Manipulation
 |  |
