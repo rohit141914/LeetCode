@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/rohit141914/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rohit141914/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohit141914/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/rohit141914/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/rohit141914/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/rohit141914/LeetCode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/rohit141914/LeetCode/tree/master/0242-valid-anagram) |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/rohit141914/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rohit141914/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/rohit141914/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/rohit141914/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohit141914/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rohit141914/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -473,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/rohit141914/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/rohit141914/LeetCode/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/rohit141914/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/rohit141914/LeetCode/tree/master/0682-baseball-game) |
