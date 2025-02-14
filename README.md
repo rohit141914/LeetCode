@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/rohit141914/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rohit141914/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/rohit141914/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0318-maximum-product-of-word-lengths](https://github.com/rohit141914/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/rohit141914/LeetCode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/rohit141914/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohit141914/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/rohit141914/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/rohit141914/LeetCode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/rohit141914/LeetCode/tree/master/0242-valid-anagram) |
+| [0318-maximum-product-of-word-lengths](https://github.com/rohit141914/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0443-string-compression](https://github.com/rohit141914/LeetCode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/rohit141914/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rohit141914/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/rohit141914/LeetCode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/rohit141914/LeetCode/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/rohit141914/LeetCode/tree/master/0190-reverse-bits) |
+| [0318-maximum-product-of-word-lengths](https://github.com/rohit141914/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0476-number-complement](https://github.com/rohit141914/LeetCode/tree/master/0476-number-complement) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/rohit141914/LeetCode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rohit141914/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
