@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/rohit141914/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/rohit141914/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/rohit141914/LeetCode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/rohit141914/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/rohit141914/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/rohit141914/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
 | [2465-shifting-letters-ii](https://github.com/rohit141914/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rohit141914/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/rohit141914/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rohit141914/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/rohit141914/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/rohit141914/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rohit141914/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rohit141914/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -693,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/rohit141914/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [2122-count-special-quadruplets](https://github.com/rohit141914/LeetCode/tree/master/2122-count-special-quadruplets) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/rohit141914/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3469-maximum-height-of-a-triangle](https://github.com/rohit141914/LeetCode/tree/master/3469-maximum-height-of-a-triangle) |
 ## Merge Sort
 |  |
