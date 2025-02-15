@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3412-permutation-difference-between-two-strings](https://github.com/rohit141914/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rohit141914/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rohit141914/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rohit141914/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2331-intersection-of-multiple-arrays](https://github.com/rohit141914/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/rohit141914/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rohit141914/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rohit141914/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
 |  |
 | ------- |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3451-string-compression-iii](https://github.com/rohit141914/LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rohit141914/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3636-check-balanced-string](https://github.com/rohit141914/LeetCode/tree/master/3636-check-balanced-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rohit141914/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
