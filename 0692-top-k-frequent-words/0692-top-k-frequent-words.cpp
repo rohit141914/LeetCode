@@ -16,14 +16,12 @@ public:
        priority_queue<pair<string,int>,vector<pair<string,int>>,my>p;
        for(int i=0;i<k;i++){
         auto a=*mp.begin();
-        // cout<<a.first;
         p.push({a.first,a.second});
         mp.erase(mp.begin());
        }
        while(mp.empty()==false){
         auto a=*mp.begin();
         pair<string,int>t=p.top();
-        cout<<t.first;
         if(a.second>t.second){
             p.pop();
             p.push({a.first,a.second});
