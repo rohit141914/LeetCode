@@ -5,9 +5,6 @@ public:
     }
     int minRectanglesToCoverPoints(vector<vector<int>>& points, int w) {
         sort(points.begin(),points.end(),m);
-        for(auto a:points){
-            cout<<a[0];
-        }
         int c=0;
         vector<int> pp=*points.begin();
         int p=pp[0];
