@@ -18,12 +18,10 @@ public:
         }      
         priority_queue<pair<string,int>,vector<pair<string,int>>,m>p;
         for(auto a:mp){
-            // cout<<a.first<<" "<<a.second<<" ";
             p.push({a.first,a.second});
             if(p.size()>1){
                 p.pop();
             }
-            // cout<<p.top().first<<"-";
         }
         return p.top().first;
     }
