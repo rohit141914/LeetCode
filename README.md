@@ -384,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2341-count-prefixes-of-a-given-string](https://github.com/rohit141914/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/rohit141914/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
 | [2378-sender-with-largest-word-count](https://github.com/rohit141914/LeetCode/tree/master/2378-sender-with-largest-word-count) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rohit141914/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/rohit141914/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/rohit141914/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2580-circular-sentence](https://github.com/rohit141914/LeetCode/tree/master/2580-circular-sentence) |
@@ -578,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/rohit141914/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rohit141914/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/rohit141914/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rohit141914/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Monotonic Stack
 |  |
 | ------- |
