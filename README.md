@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-special-array-i](https://github.com/rohit141914/LeetCode/tree/master/3429-special-array-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/rohit141914/LeetCode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rohit141914/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3483-alternating-groups-ii](https://github.com/rohit141914/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/rohit141914/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rohit141914/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/rohit141914/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
@@ -580,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rohit141914/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/rohit141914/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rohit141914/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/rohit141914/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
