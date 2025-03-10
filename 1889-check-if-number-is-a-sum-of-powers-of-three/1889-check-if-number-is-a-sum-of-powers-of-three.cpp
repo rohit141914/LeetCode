@@ -1,17 +1,12 @@
 class Solution {
 public:
-    bool checkPowersOfThree(int n) { return checkPowersOfThreeHelper(0, n); }
-
-private:
-    bool checkPowersOfThreeHelper(int power, int n) {
-        if (n == 0) return true;
-
-        if (pow(3, power) > n) return false;
-
-        bool addPower = checkPowersOfThreeHelper(power + 1, n - pow(3, power));
-
-        bool skipPower = checkPowersOfThreeHelper(power + 1, n);
-
-        return addPower || skipPower;
+    bool checkPowersOfThree(int n) {
+        while(n>0){
+            if(n%3==2){
+                return false;
+            }
+            n=n/3;
+        }
+        return true;
     }
 };
