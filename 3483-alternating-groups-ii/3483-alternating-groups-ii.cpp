@@ -1,30 +1,20 @@
 class Solution {
 public:
-    int numberOfAlternatingGroups(vector<int>& colors, int k) {
-        for (int i = 0; i < k - 1; i++) {
-            colors.push_back(colors[i]);
-        }
-
-        int length = colors.size();
-        int result = 0;
-        int left = 0;
-        int right = 1;
-
-        while (right < length) {
-            if (colors[right] == colors[right - 1]) {
-                left = right;
-                right++;
+    int numberOfAlternatingGroups(vector<int>& c, int k) {
+        vector<int>a;
+        a.insert(a.begin(),c.begin(),c.end());
+        a.insert(a.end(),c.begin(),c.end());
+        int co=1;
+        int ans=0;
+        for(int i=1;i<(a.size()/2)+k-1;i++){
+            if(a[i]==a[i-1]){
+                co=1;
                 continue;
             }
-
-            right++;
-
-            if (right - left < k) continue;
-
-            result++;
-            left++;
+            co++;
+            if(co>=k)ans++;
         }
 
-        return result;
+        return ans;
     }
 };
