@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3515-find-if-digit-game-can-be-won](https://github.com/rohit141914/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rohit141914/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/rohit141914/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3643-zero-array-transformation-ii](https://github.com/rohit141914/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/rohit141914/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rohit141914/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/rohit141914/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/rohit141914/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/rohit141914/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3643-zero-array-transformation-ii](https://github.com/rohit141914/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -687,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2504-find-all-good-indices](https://github.com/rohit141914/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rohit141914/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2721-sum-of-distances](https://github.com/rohit141914/LeetCode/tree/master/2721-sum-of-distances) |
+| [3643-zero-array-transformation-ii](https://github.com/rohit141914/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/rohit141914/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
