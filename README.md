@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rohit141914/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rohit141914/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rohit141914/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohit141914/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rohit141914/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/rohit141914/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rohit141914/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/rohit141914/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rohit141914/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rohit141914/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohit141914/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1829-maximum-units-on-a-truck](https://github.com/rohit141914/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1970-sorting-the-sentence](https://github.com/rohit141914/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rohit141914/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1542-consecutive-characters](https://github.com/rohit141914/LeetCode/tree/master/1542-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rohit141914/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/rohit141914/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohit141914/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rohit141914/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/rohit141914/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1894-merge-strings-alternately](https://github.com/rohit141914/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -461,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/rohit141914/LeetCode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1502-construct-k-palindrome-strings](https://github.com/rohit141914/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohit141914/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1829-maximum-units-on-a-truck](https://github.com/rohit141914/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rohit141914/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/rohit141914/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
