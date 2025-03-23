@@ -657,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rohit141914/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/rohit141914/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rohit141914/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/rohit141914/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2504-find-all-good-indices](https://github.com/rohit141914/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/rohit141914/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
@@ -830,11 +831,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rohit141914/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/rohit141914/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/rohit141914/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/rohit141914/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rohit141914/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/rohit141914/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rohit141914/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
