@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rohit141914/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/rohit141914/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3429-special-array-i](https://github.com/rohit141914/LeetCode/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/rohit141914/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3469-maximum-height-of-a-triangle](https://github.com/rohit141914/LeetCode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rohit141914/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rohit141914/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/rohit141914/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rohit141914/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/rohit141914/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3430-count-days-without-meetings](https://github.com/rohit141914/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/rohit141914/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
 |  |
