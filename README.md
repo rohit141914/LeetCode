@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/rohit141914/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2721-sum-of-distances](https://github.com/rohit141914/LeetCode/tree/master/2721-sum-of-distances) |
 | [2727-number-of-senior-citizens](https://github.com/rohit141914/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/rohit141914/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/rohit141914/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3114-beautiful-towers-i](https://github.com/rohit141914/LeetCode/tree/master/3114-beautiful-towers-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/rohit141914/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/rohit141914/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rohit141914/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2721-sum-of-distances](https://github.com/rohit141914/LeetCode/tree/master/2721-sum-of-distances) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/rohit141914/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/rohit141914/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3227-find-missing-and-repeated-values](https://github.com/rohit141914/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rohit141914/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -316,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rohit141914/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/rohit141914/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/rohit141914/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rohit141914/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/rohit141914/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3430-count-days-without-meetings](https://github.com/rohit141914/LeetCode/tree/master/3430-count-days-without-meetings) |
