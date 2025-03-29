@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2721-sum-of-distances](https://github.com/rohit141914/LeetCode/tree/master/2721-sum-of-distances) |
 | [2727-number-of-senior-citizens](https://github.com/rohit141914/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/rohit141914/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/rohit141914/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/rohit141914/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3114-beautiful-towers-i](https://github.com/rohit141914/LeetCode/tree/master/3114-beautiful-towers-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/rohit141914/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/rohit141914/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/rohit141914/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/rohit141914/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rohit141914/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/rohit141914/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3430-count-days-without-meetings](https://github.com/rohit141914/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -469,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2630-alternating-digit-sum](https://github.com/rohit141914/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rohit141914/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rohit141914/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/rohit141914/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/rohit141914/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/rohit141914/LeetCode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rohit141914/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -502,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rohit141914/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rohit141914/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/rohit141914/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [3001-apply-operations-to-maximize-score](https://github.com/rohit141914/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/rohit141914/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/rohit141914/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3647-zero-array-transformation-iii](https://github.com/rohit141914/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -541,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rohit141914/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/rohit141914/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rohit141914/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3001-apply-operations-to-maximize-score](https://github.com/rohit141914/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3114-beautiful-towers-i](https://github.com/rohit141914/LeetCode/tree/master/3114-beautiful-towers-i) |
 | [3447-clear-digits](https://github.com/rohit141914/LeetCode/tree/master/3447-clear-digits) |
 ## Tree
@@ -630,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/rohit141914/LeetCode/tree/master/0258-add-digits) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rohit141914/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rohit141914/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/rohit141914/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -648,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/rohit141914/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rohit141914/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3001-apply-operations-to-maximize-score](https://github.com/rohit141914/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3114-beautiful-towers-i](https://github.com/rohit141914/LeetCode/tree/master/3114-beautiful-towers-i) |
 ## Dynamic Programming
 |  |
