@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0676-implement-magic-dictionary](https://github.com/rohit141914/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0692-top-k-frequent-words](https://github.com/rohit141914/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/rohit141914/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0768-partition-labels](https://github.com/rohit141914/LeetCode/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rohit141914/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/rohit141914/LeetCode/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohit141914/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/rohit141914/LeetCode/tree/master/0443-string-compression) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rohit141914/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0768-partition-labels](https://github.com/rohit141914/LeetCode/tree/master/0768-partition-labels) |
 | [0875-longest-mountain-in-array](https://github.com/rohit141914/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/rohit141914/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/rohit141914/LeetCode/tree/master/0961-long-pressed-name) |
@@ -388,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0676-implement-magic-dictionary](https://github.com/rohit141914/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0692-top-k-frequent-words](https://github.com/rohit141914/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/rohit141914/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0768-partition-labels](https://github.com/rohit141914/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/rohit141914/LeetCode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rohit141914/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/rohit141914/LeetCode/tree/master/0952-word-subsets) |
@@ -488,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/rohit141914/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rohit141914/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohit141914/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0768-partition-labels](https://github.com/rohit141914/LeetCode/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/rohit141914/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rohit141914/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rohit141914/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
