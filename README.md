@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3114-beautiful-towers-i](https://github.com/rohit141914/LeetCode/tree/master/3114-beautiful-towers-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/rohit141914/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/rohit141914/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/rohit141914/LeetCode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3227-find-missing-and-repeated-values](https://github.com/rohit141914/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rohit141914/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rohit141914/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -699,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/rohit141914/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2504-find-all-good-indices](https://github.com/rohit141914/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/rohit141914/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
+| [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/rohit141914/LeetCode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 ## Breadth-First Search
 |  |
 | ------- |
