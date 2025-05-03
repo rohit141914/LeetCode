@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rohit141914/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/rohit141914/LeetCode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1127-last-stone-weight](https://github.com/rohit141914/LeetCode/tree/master/1127-last-stone-weight) |
+| [1140-distant-barcodes](https://github.com/rohit141914/LeetCode/tree/master/1140-distant-barcodes) |
 | [1185-find-in-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1222-remove-covered-intervals](https://github.com/rohit141914/LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/rohit141914/LeetCode/tree/master/0952-word-subsets) |
 | [1010-powerful-integers](https://github.com/rohit141914/LeetCode/tree/master/1010-powerful-integers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1140-distant-barcodes](https://github.com/rohit141914/LeetCode/tree/master/1140-distant-barcodes) |
 | [1256-rank-transform-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rohit141914/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rohit141914/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/rohit141914/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/rohit141914/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1140-distant-barcodes](https://github.com/rohit141914/LeetCode/tree/master/1140-distant-barcodes) |
 | [1222-remove-covered-intervals](https://github.com/rohit141914/LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rohit141914/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -353,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/rohit141914/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/rohit141914/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rohit141914/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1140-distant-barcodes](https://github.com/rohit141914/LeetCode/tree/master/1140-distant-barcodes) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rohit141914/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rohit141914/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/rohit141914/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -514,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rohit141914/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/rohit141914/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rohit141914/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1140-distant-barcodes](https://github.com/rohit141914/LeetCode/tree/master/1140-distant-barcodes) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/rohit141914/LeetCode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1502-construct-k-palindrome-strings](https://github.com/rohit141914/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -784,6 +789,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/rohit141914/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/rohit141914/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/rohit141914/LeetCode/tree/master/1127-last-stone-weight) |
+| [1140-distant-barcodes](https://github.com/rohit141914/LeetCode/tree/master/1140-distant-barcodes) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rohit141914/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/rohit141914/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rohit141914/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
