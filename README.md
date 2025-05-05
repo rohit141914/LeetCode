@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-distant-barcodes](https://github.com/rohit141914/LeetCode/tree/master/1140-distant-barcodes) |
 | [1185-find-in-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1222-remove-covered-intervals](https://github.com/rohit141914/LeetCode/tree/master/1222-remove-covered-intervals) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/rohit141914/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/rohit141914/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rohit141914/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1010-powerful-integers](https://github.com/rohit141914/LeetCode/tree/master/1010-powerful-integers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1140-distant-barcodes](https://github.com/rohit141914/LeetCode/tree/master/1140-distant-barcodes) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/rohit141914/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rohit141914/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rohit141914/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/rohit141914/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rohit141914/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1140-distant-barcodes](https://github.com/rohit141914/LeetCode/tree/master/1140-distant-barcodes) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/rohit141914/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rohit141914/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rohit141914/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/rohit141914/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
