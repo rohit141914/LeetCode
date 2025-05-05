@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/rohit141914/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/rohit141914/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rohit141914/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/rohit141914/LeetCode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2378-sender-with-largest-word-count](https://github.com/rohit141914/LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/rohit141914/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rohit141914/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/rohit141914/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/rohit141914/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rohit141914/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/rohit141914/LeetCode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2378-sender-with-largest-word-count](https://github.com/rohit141914/LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/rohit141914/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2486-most-frequent-even-element](https://github.com/rohit141914/LeetCode/tree/master/2486-most-frequent-even-element) |
@@ -453,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rohit141914/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/rohit141914/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/rohit141914/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/rohit141914/LeetCode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2378-sender-with-largest-word-count](https://github.com/rohit141914/LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rohit141914/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/rohit141914/LeetCode/tree/master/2465-shifting-letters-ii) |
