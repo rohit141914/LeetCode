@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/rohit141914/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rohit141914/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/rohit141914/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rohit141914/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/rohit141914/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/rohit141914/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -497,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rohit141914/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rohit141914/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rohit141914/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/rohit141914/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rohit141914/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2630-alternating-digit-sum](https://github.com/rohit141914/LeetCode/tree/master/2630-alternating-digit-sum) |
@@ -647,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/rohit141914/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rohit141914/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rohit141914/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/rohit141914/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rohit141914/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/rohit141914/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -905,4 +908,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/rohit141914/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
