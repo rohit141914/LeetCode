@@ -489,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/rohit141914/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rohit141914/LeetCode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/rohit141914/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0390-elimination-game](https://github.com/rohit141914/LeetCode/tree/master/0390-elimination-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rohit141914/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rohit141914/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1010-powerful-integers](https://github.com/rohit141914/LeetCode/tree/master/1010-powerful-integers) |
@@ -812,6 +813,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/rohit141914/LeetCode/tree/master/0143-reorder-list) |
+| [0390-elimination-game](https://github.com/rohit141914/LeetCode/tree/master/0390-elimination-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rohit141914/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Data Stream
 |  |
