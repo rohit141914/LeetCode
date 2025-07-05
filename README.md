@@ -456,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/rohit141914/LeetCode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rohit141914/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/rohit141914/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/rohit141914/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/rohit141914/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/rohit141914/LeetCode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2378-sender-with-largest-word-count](https://github.com/rohit141914/LeetCode/tree/master/2378-sender-with-largest-word-count) |
@@ -652,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/rohit141914/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rohit141914/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/rohit141914/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2386-min-max-game](https://github.com/rohit141914/LeetCode/tree/master/2386-min-max-game) |
 | [2411-spiral-matrix-iv](https://github.com/rohit141914/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rohit141914/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
