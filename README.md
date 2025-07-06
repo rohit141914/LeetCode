@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/rohit141914/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/rohit141914/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/rohit141914/LeetCode/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/rohit141914/LeetCode/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rohit141914/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/rohit141914/LeetCode/tree/master/0952-word-subsets) |
 | [1010-powerful-integers](https://github.com/rohit141914/LeetCode/tree/master/1010-powerful-integers) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/rohit141914/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/rohit141914/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/rohit141914/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0778-reorganize-string](https://github.com/rohit141914/LeetCode/tree/master/0778-reorganize-string) |
 | [0958-sort-array-by-parity-ii](https://github.com/rohit141914/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/rohit141914/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/rohit141914/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/rohit141914/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rohit141914/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/rohit141914/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/rohit141914/LeetCode/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rohit141914/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1140-distant-barcodes](https://github.com/rohit141914/LeetCode/tree/master/1140-distant-barcodes) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rohit141914/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -419,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/rohit141914/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/rohit141914/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/rohit141914/LeetCode/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/rohit141914/LeetCode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/rohit141914/LeetCode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rohit141914/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/rohit141914/LeetCode/tree/master/0952-word-subsets) |
@@ -526,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rohit141914/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohit141914/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0768-partition-labels](https://github.com/rohit141914/LeetCode/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/rohit141914/LeetCode/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/rohit141914/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rohit141914/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/rohit141914/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -803,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/rohit141914/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rohit141914/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/rohit141914/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/rohit141914/LeetCode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/rohit141914/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/rohit141914/LeetCode/tree/master/1127-last-stone-weight) |
 | [1140-distant-barcodes](https://github.com/rohit141914/LeetCode/tree/master/1140-distant-barcodes) |
