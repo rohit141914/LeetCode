@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3455-minimum-length-of-string-after-operations](https://github.com/rohit141914/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rohit141914/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rohit141914/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3678-design-task-manager](https://github.com/rohit141914/LeetCode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rohit141914/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
@@ -776,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/rohit141914/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0676-implement-magic-dictionary](https://github.com/rohit141914/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [1708-design-parking-system](https://github.com/rohit141914/LeetCode/tree/master/1708-design-parking-system) |
+| [3678-design-task-manager](https://github.com/rohit141914/LeetCode/tree/master/3678-design-task-manager) |
 ## Queue
 |  |
 | ------- |
@@ -823,6 +825,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/rohit141914/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/rohit141914/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3647-zero-array-transformation-iii](https://github.com/rohit141914/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/rohit141914/LeetCode/tree/master/3678-design-task-manager) |
 ## Recursion
 |  |
 | ------- |
@@ -931,4 +934,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/rohit141914/LeetCode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
