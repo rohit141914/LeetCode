@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/rohit141914/LeetCode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rohit141914/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rohit141914/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/rohit141914/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/rohit141914/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rohit141914/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rohit141914/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -591,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rohit141914/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/rohit141914/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/rohit141914/LeetCode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/rohit141914/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rohit141914/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rohit141914/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/rohit141914/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -783,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/rohit141914/LeetCode/tree/master/0355-design-twitter) |
 | [0676-implement-magic-dictionary](https://github.com/rohit141914/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [1337-design-skiplist](https://github.com/rohit141914/LeetCode/tree/master/1337-design-skiplist) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/rohit141914/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1708-design-parking-system](https://github.com/rohit141914/LeetCode/tree/master/1708-design-parking-system) |
 | [3678-design-task-manager](https://github.com/rohit141914/LeetCode/tree/master/3678-design-task-manager) |
 ## Queue
