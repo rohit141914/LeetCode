@@ -503,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/rohit141914/LeetCode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/rohit141914/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/rohit141914/LeetCode/tree/master/0390-elimination-game) |
+| [0445-add-two-numbers-ii](https://github.com/rohit141914/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rohit141914/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rohit141914/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1010-powerful-integers](https://github.com/rohit141914/LeetCode/tree/master/1010-powerful-integers) |
@@ -591,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/rohit141914/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rohit141914/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rohit141914/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0445-add-two-numbers-ii](https://github.com/rohit141914/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/rohit141914/LeetCode/tree/master/0682-baseball-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rohit141914/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/rohit141914/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -690,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/rohit141914/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rohit141914/LeetCode/tree/master/0143-reorder-list) |
 | [0355-design-twitter](https://github.com/rohit141914/LeetCode/tree/master/0355-design-twitter) |
+| [0445-add-two-numbers-ii](https://github.com/rohit141914/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0860-design-circular-queue](https://github.com/rohit141914/LeetCode/tree/master/0860-design-circular-queue) |
 | [1337-design-skiplist](https://github.com/rohit141914/LeetCode/tree/master/1337-design-skiplist) |
 | [2411-spiral-matrix-iv](https://github.com/rohit141914/LeetCode/tree/master/2411-spiral-matrix-iv) |
