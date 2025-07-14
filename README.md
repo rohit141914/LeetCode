@@ -513,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1010-powerful-integers](https://github.com/rohit141914/LeetCode/tree/master/1010-powerful-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/rohit141914/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/rohit141914/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rohit141914/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/rohit141914/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/rohit141914/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rohit141914/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -700,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/rohit141914/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0860-design-circular-queue](https://github.com/rohit141914/LeetCode/tree/master/0860-design-circular-queue) |
 | [1337-design-skiplist](https://github.com/rohit141914/LeetCode/tree/master/1337-design-skiplist) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rohit141914/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2411-spiral-matrix-iv](https://github.com/rohit141914/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rohit141914/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rohit141914/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
