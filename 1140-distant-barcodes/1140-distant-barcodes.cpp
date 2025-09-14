@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<int> rearrangeBarcodes(vector<int>& bar) {
         if(bar.size()<2){
-            
             return bar;
         }
         unordered_map<int,int>mp;
