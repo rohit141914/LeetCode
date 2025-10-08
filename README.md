@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rohit141914/LeetCode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/rohit141914/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rohit141914/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rohit141914/LeetCode/tree/master/0056-merge-intervals) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rohit141914/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit141914/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/rohit141914/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rohit141914/LeetCode/tree/master/0013-roman-to-integer) |
