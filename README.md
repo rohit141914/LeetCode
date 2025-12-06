@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohit141914/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rohit141914/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/rohit141914/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rohit141914/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rohit141914/LeetCode/tree/master/0056-merge-intervals) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rohit141914/LeetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohit141914/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/rohit141914/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rohit141914/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -542,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rohit141914/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/rohit141914/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rohit141914/LeetCode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/rohit141914/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
