@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/rohit141914/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/rohit141914/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/rohit141914/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1037-valid-boomerang](https://github.com/rohit141914/LeetCode/tree/master/1037-valid-boomerang) |
 | [1054-distant-barcodes](https://github.com/rohit141914/LeetCode/tree/master/1054-distant-barcodes) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rohit141914/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/rohit141914/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -523,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1010-powerful-integers](https://github.com/rohit141914/LeetCode/tree/master/1010-powerful-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/rohit141914/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/rohit141914/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1037-valid-boomerang](https://github.com/rohit141914/LeetCode/tree/master/1037-valid-boomerang) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rohit141914/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/rohit141914/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/rohit141914/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -958,6 +960,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/rohit141914/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1037-valid-boomerang](https://github.com/rohit141914/LeetCode/tree/master/1037-valid-boomerang) |
 ## Union Find
 |  |
 | ------- |
