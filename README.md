@@ -512,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/rohit141914/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/rohit141914/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/rohit141914/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/rohit141914/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohit141914/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/rohit141914/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/rohit141914/LeetCode/tree/master/0258-add-digits) |
@@ -755,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/rohit141914/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rohit141914/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/rohit141914/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/rohit141914/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/rohit141914/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rohit141914/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -944,6 +946,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rohit141914/LeetCode/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/rohit141914/LeetCode/tree/master/0397-integer-replacement) |
 ## Bucket Sort
 |  |
