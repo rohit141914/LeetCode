@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rohit141914/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rohit141914/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rohit141914/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/rohit141914/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rohit141914/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rohit141914/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/rohit141914/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rohit141914/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/rohit141914/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rohit141914/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/rohit141914/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rohit141914/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rohit141914/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohit141914/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-long-pressed-name](https://github.com/rohit141914/LeetCode/tree/master/0961-long-pressed-name) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rohit141914/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rohit141914/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/rohit141914/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1894-merge-strings-alternately](https://github.com/rohit141914/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/rohit141914/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rohit141914/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -534,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/rohit141914/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/rohit141914/LeetCode/tree/master/1037-valid-boomerang) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rohit141914/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/rohit141914/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/rohit141914/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/rohit141914/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rohit141914/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
