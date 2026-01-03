@@ -4,7 +4,6 @@ public:
     int climbStairs(int n) {
         if(n<0) return 0;
         if(n==0) return 1;
-        // int ans= climbStairs(n-1)+climbStairs(n-2);
         int a=0;
         int b=0;
         if(temp.find(n-1)!=temp.end()){
