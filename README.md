@@ -432,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/rohit141914/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/rohit141914/LeetCode/tree/master/0072-edit-distance) |
 | [0168-excel-sheet-column-title](https://github.com/rohit141914/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/rohit141914/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/rohit141914/LeetCode/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rohit141914/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0443-string-compression](https://github.com/rohit141914/LeetCode/tree/master/0443-string-compression) |
@@ -516,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/rohit141914/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohit141914/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/rohit141914/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/rohit141914/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/rohit141914/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/rohit141914/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rohit141914/LeetCode/tree/master/0263-ugly-number) |
