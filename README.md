@@ -528,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/rohit141914/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/rohit141914/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rohit141914/LeetCode/tree/master/0263-ugly-number) |
+| [0343-integer-break](https://github.com/rohit141914/LeetCode/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/rohit141914/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/rohit141914/LeetCode/tree/master/0390-elimination-game) |
 | [0445-add-two-numbers-ii](https://github.com/rohit141914/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -779,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohit141914/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/rohit141914/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rohit141914/LeetCode/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/rohit141914/LeetCode/tree/master/0343-integer-break) |
 | [0397-integer-replacement](https://github.com/rohit141914/LeetCode/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/rohit141914/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/rohit141914/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
