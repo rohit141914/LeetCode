@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rohit141914/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rohit141914/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/rohit141914/LeetCode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
+| [1390-four-divisors](https://github.com/rohit141914/LeetCode/tree/master/1390-four-divisors) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rohit141914/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rohit141914/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rohit141914/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -536,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/rohit141914/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/rohit141914/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/rohit141914/LeetCode/tree/master/1037-valid-boomerang) |
+| [1390-four-divisors](https://github.com/rohit141914/LeetCode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rohit141914/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/rohit141914/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/rohit141914/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
