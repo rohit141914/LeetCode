@@ -559,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rohit141914/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/rohit141914/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2525-categorize-box-according-to-criteria](https://github.com/rohit141914/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/rohit141914/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rohit141914/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2630-alternating-digit-sum](https://github.com/rohit141914/LeetCode/tree/master/2630-alternating-digit-sum) |
