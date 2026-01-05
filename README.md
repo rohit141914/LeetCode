@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1222-remove-covered-intervals](https://github.com/rohit141914/LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rohit141914/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/rohit141914/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1293-three-consecutive-odds](https://github.com/rohit141914/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rohit141914/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rohit141914/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-distant-barcodes](https://github.com/rohit141914/LeetCode/tree/master/1140-distant-barcodes) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rohit141914/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/rohit141914/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/rohit141914/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rohit141914/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rohit141914/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rohit141914/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -421,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/rohit141914/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/rohit141914/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rohit141914/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rohit141914/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rohit141914/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -718,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/rohit141914/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/rohit141914/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rohit141914/LeetCode/tree/master/0735-asteroid-collision) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/rohit141914/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1708-design-parking-system](https://github.com/rohit141914/LeetCode/tree/master/1708-design-parking-system) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rohit141914/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rohit141914/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
