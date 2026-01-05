@@ -544,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/rohit141914/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rohit141914/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/rohit141914/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/rohit141914/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/rohit141914/LeetCode/tree/master/0390-elimination-game) |
 | [0445-add-two-numbers-ii](https://github.com/rohit141914/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rohit141914/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -754,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/rohit141914/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rohit141914/LeetCode/tree/master/0143-reorder-list) |
 | [0355-design-twitter](https://github.com/rohit141914/LeetCode/tree/master/0355-design-twitter) |
+| [0382-linked-list-random-node](https://github.com/rohit141914/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/rohit141914/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0860-design-circular-queue](https://github.com/rohit141914/LeetCode/tree/master/0860-design-circular-queue) |
 | [1337-design-skiplist](https://github.com/rohit141914/LeetCode/tree/master/1337-design-skiplist) |
@@ -1043,4 +1045,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/rohit141914/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/rohit141914/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/rohit141914/LeetCode/tree/master/0382-linked-list-random-node) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/rohit141914/LeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
