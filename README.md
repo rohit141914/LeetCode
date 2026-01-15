@@ -684,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0623-add-one-row-to-tree](https://github.com/rohit141914/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/rohit141914/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/rohit141914/LeetCode/tree/master/1609-even-odd-tree) |
@@ -707,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0676-implement-magic-dictionary](https://github.com/rohit141914/LeetCode/tree/master/0676-implement-magic-dictionary) |
+| [0814-binary-tree-pruning](https://github.com/rohit141914/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -727,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0623-add-one-row-to-tree](https://github.com/rohit141914/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/rohit141914/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/rohit141914/LeetCode/tree/master/1609-even-odd-tree) |
