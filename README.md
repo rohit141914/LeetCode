@@ -689,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/rohit141914/LeetCode/tree/master/0814-binary-tree-pruning) |
+| [0938-range-sum-of-bst](https://github.com/rohit141914/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/rohit141914/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -718,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0676-implement-magic-dictionary](https://github.com/rohit141914/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0814-binary-tree-pruning](https://github.com/rohit141914/LeetCode/tree/master/0814-binary-tree-pruning) |
+| [0938-range-sum-of-bst](https://github.com/rohit141914/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/rohit141914/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -744,6 +746,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/rohit141914/LeetCode/tree/master/0814-binary-tree-pruning) |
+| [0938-range-sum-of-bst](https://github.com/rohit141914/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/rohit141914/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -995,6 +998,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohit141914/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/rohit141914/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Rolling Hash
 |  |
 | ------- |
