@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/rohit141914/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rohit141914/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/rohit141914/LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/rohit141914/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rohit141914/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0443-string-compression](https://github.com/rohit141914/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/rohit141914/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -678,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohit141914/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rohit141914/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/rohit141914/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/rohit141914/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohit141914/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -706,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohit141914/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rohit141914/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/rohit141914/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohit141914/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -733,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohit141914/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rohit141914/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/rohit141914/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohit141914/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -1032,6 +1036,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0090-subsets-ii](https://github.com/rohit141914/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/rohit141914/LeetCode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/rohit141914/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Memoization
 |  |
 | ------- |
