@@ -687,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/rohit141914/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0965-univalued-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0965-univalued-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/rohit141914/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/rohit141914/LeetCode/tree/master/1609-even-odd-tree) |
@@ -713,6 +714,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0676-implement-magic-dictionary](https://github.com/rohit141914/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0814-binary-tree-pruning](https://github.com/rohit141914/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0965-univalued-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0965-univalued-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/rohit141914/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -736,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/rohit141914/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0965-univalued-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/0965-univalued-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/rohit141914/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/rohit141914/LeetCode/tree/master/1609-even-odd-tree) |
