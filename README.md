@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-zero-array-transformation-ii](https://github.com/rohit141914/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/rohit141914/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/rohit141914/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3709-design-exam-scores-tracker](https://github.com/rohit141914/LeetCode/tree/master/3709-design-exam-scores-tracker) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rohit141914/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rohit141914/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/rohit141914/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/rohit141914/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3643-zero-array-transformation-ii](https://github.com/rohit141914/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3709-design-exam-scores-tracker](https://github.com/rohit141914/LeetCode/tree/master/3709-design-exam-scores-tracker) |
 ## Sorting
 |  |
 | ------- |
@@ -922,6 +924,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-design-a-stack-with-increment-operation](https://github.com/rohit141914/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1708-design-parking-system](https://github.com/rohit141914/LeetCode/tree/master/1708-design-parking-system) |
 | [3678-design-task-manager](https://github.com/rohit141914/LeetCode/tree/master/3678-design-task-manager) |
+| [3709-design-exam-scores-tracker](https://github.com/rohit141914/LeetCode/tree/master/3709-design-exam-scores-tracker) |
 ## Queue
 |  |
 | ------- |
@@ -951,6 +954,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rohit141914/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/rohit141914/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/rohit141914/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3709-design-exam-scores-tracker](https://github.com/rohit141914/LeetCode/tree/master/3709-design-exam-scores-tracker) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
