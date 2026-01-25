@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/rohit141914/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0978-valid-mountain-array](https://github.com/rohit141914/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1002-maximum-width-ramp](https://github.com/rohit141914/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/rohit141914/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1014-k-closest-points-to-origin](https://github.com/rohit141914/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/rohit141914/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/rohit141914/LeetCode/tree/master/1037-valid-boomerang) |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0748-largest-number-at-least-twice-of-others](https://github.com/rohit141914/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0778-reorganize-string](https://github.com/rohit141914/LeetCode/tree/master/0778-reorganize-string) |
 | [0958-sort-array-by-parity-ii](https://github.com/rohit141914/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/rohit141914/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1014-k-closest-points-to-origin](https://github.com/rohit141914/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/rohit141914/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohit141914/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -612,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/rohit141914/LeetCode/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/rohit141914/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rohit141914/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/rohit141914/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/rohit141914/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1054-distant-barcodes](https://github.com/rohit141914/LeetCode/tree/master/1054-distant-barcodes) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rohit141914/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
