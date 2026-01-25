@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/rohit141914/LeetCode/tree/master/0518-coin-change-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rohit141914/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0566-reshape-the-matrix](https://github.com/rohit141914/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0645-set-mismatch](https://github.com/rohit141914/LeetCode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohit141914/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0665-non-decreasing-array](https://github.com/rohit141914/LeetCode/tree/master/0665-non-decreasing-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rohit141914/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/rohit141914/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohit141914/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rohit141914/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/rohit141914/LeetCode/tree/master/0645-set-mismatch) |
 | [0676-implement-magic-dictionary](https://github.com/rohit141914/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0692-top-k-frequent-words](https://github.com/rohit141914/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/rohit141914/LeetCode/tree/master/0720-longest-word-in-dictionary) |
@@ -348,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rohit141914/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rohit141914/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rohit141914/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0645-set-mismatch](https://github.com/rohit141914/LeetCode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohit141914/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/rohit141914/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/rohit141914/LeetCode/tree/master/0720-longest-word-in-dictionary) |
@@ -644,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/rohit141914/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/rohit141914/LeetCode/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/rohit141914/LeetCode/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/rohit141914/LeetCode/tree/master/0645-set-mismatch) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/rohit141914/LeetCode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rohit141914/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rohit141914/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
