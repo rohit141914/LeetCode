@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1829-maximum-units-on-a-truck](https://github.com/rohit141914/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1923-sentence-similarity-iii](https://github.com/rohit141914/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rohit141914/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2043-simple-bank-system](https://github.com/rohit141914/LeetCode/tree/master/2043-simple-bank-system) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/rohit141914/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/rohit141914/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2122-count-special-quadruplets](https://github.com/rohit141914/LeetCode/tree/master/2122-count-special-quadruplets) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/rohit141914/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/rohit141914/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rohit141914/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2043-simple-bank-system](https://github.com/rohit141914/LeetCode/tree/master/2043-simple-bank-system) |
 | [2122-count-special-quadruplets](https://github.com/rohit141914/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rohit141914/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/rohit141914/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -786,6 +788,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/rohit141914/LeetCode/tree/master/0735-asteroid-collision) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/rohit141914/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1708-design-parking-system](https://github.com/rohit141914/LeetCode/tree/master/1708-design-parking-system) |
+| [2043-simple-bank-system](https://github.com/rohit141914/LeetCode/tree/master/2043-simple-bank-system) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rohit141914/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rohit141914/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/rohit141914/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -942,6 +945,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1337-design-skiplist](https://github.com/rohit141914/LeetCode/tree/master/1337-design-skiplist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/rohit141914/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1708-design-parking-system](https://github.com/rohit141914/LeetCode/tree/master/1708-design-parking-system) |
+| [2043-simple-bank-system](https://github.com/rohit141914/LeetCode/tree/master/2043-simple-bank-system) |
 | [3678-design-task-manager](https://github.com/rohit141914/LeetCode/tree/master/3678-design-task-manager) |
 | [3709-design-exam-scores-tracker](https://github.com/rohit141914/LeetCode/tree/master/3709-design-exam-scores-tracker) |
 ## Queue
