@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-zero-array-transformation-ii](https://github.com/rohit141914/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/rohit141914/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/rohit141914/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/rohit141914/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3709-design-exam-scores-tracker](https://github.com/rohit141914/LeetCode/tree/master/3709-design-exam-scores-tracker) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rohit141914/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rohit141914/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rohit141914/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rohit141914/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/rohit141914/LeetCode/tree/master/3678-design-task-manager) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/rohit141914/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rohit141914/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rohit141914/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
@@ -404,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3430-count-days-without-meetings](https://github.com/rohit141914/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/rohit141914/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/rohit141914/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/rohit141914/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Counting
 |  |
 | ------- |
@@ -644,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3081-minimum-array-length-after-pair-removals](https://github.com/rohit141914/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/rohit141914/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3647-zero-array-transformation-iii](https://github.com/rohit141914/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/rohit141914/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
