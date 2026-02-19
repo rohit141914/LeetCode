@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/rohit141914/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohit141914/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rohit141914/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1797-design-authentication-manager](https://github.com/rohit141914/LeetCode/tree/master/1797-design-authentication-manager) |
 | [1904-second-largest-digit-in-a-string](https://github.com/rohit141914/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rohit141914/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2043-simple-bank-system](https://github.com/rohit141914/LeetCode/tree/master/2043-simple-bank-system) |
@@ -830,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-design-circular-queue](https://github.com/rohit141914/LeetCode/tree/master/0860-design-circular-queue) |
 | [1337-design-skiplist](https://github.com/rohit141914/LeetCode/tree/master/1337-design-skiplist) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rohit141914/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1797-design-authentication-manager](https://github.com/rohit141914/LeetCode/tree/master/1797-design-authentication-manager) |
 | [2411-spiral-matrix-iv](https://github.com/rohit141914/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rohit141914/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rohit141914/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -949,6 +951,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1337-design-skiplist](https://github.com/rohit141914/LeetCode/tree/master/1337-design-skiplist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/rohit141914/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1708-design-parking-system](https://github.com/rohit141914/LeetCode/tree/master/1708-design-parking-system) |
+| [1797-design-authentication-manager](https://github.com/rohit141914/LeetCode/tree/master/1797-design-authentication-manager) |
 | [2043-simple-bank-system](https://github.com/rohit141914/LeetCode/tree/master/2043-simple-bank-system) |
 | [3678-design-task-manager](https://github.com/rohit141914/LeetCode/tree/master/3678-design-task-manager) |
 | [3709-design-exam-scores-tracker](https://github.com/rohit141914/LeetCode/tree/master/3709-design-exam-scores-tracker) |
@@ -1135,4 +1138,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/rohit141914/LeetCode/tree/master/0382-linked-list-random-node) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/rohit141914/LeetCode/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
