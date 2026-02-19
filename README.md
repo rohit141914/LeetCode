@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/rohit141914/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rohit141914/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rohit141914/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3829-design-ride-sharing-system](https://github.com/rohit141914/LeetCode/tree/master/3829-design-ride-sharing-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -955,6 +956,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2043-simple-bank-system](https://github.com/rohit141914/LeetCode/tree/master/2043-simple-bank-system) |
 | [3678-design-task-manager](https://github.com/rohit141914/LeetCode/tree/master/3678-design-task-manager) |
 | [3709-design-exam-scores-tracker](https://github.com/rohit141914/LeetCode/tree/master/3709-design-exam-scores-tracker) |
+| [3829-design-ride-sharing-system](https://github.com/rohit141914/LeetCode/tree/master/3829-design-ride-sharing-system) |
 ## Queue
 |  |
 | ------- |
@@ -962,6 +964,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/rohit141914/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/rohit141914/LeetCode/tree/master/0860-design-circular-queue) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rohit141914/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3829-design-ride-sharing-system](https://github.com/rohit141914/LeetCode/tree/master/3829-design-ride-sharing-system) |
 ## Trie
 |  |
 | ------- |
@@ -1020,6 +1023,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rohit141914/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [3829-design-ride-sharing-system](https://github.com/rohit141914/LeetCode/tree/master/3829-design-ride-sharing-system) |
 ## Divide and Conquer
 |  |
 | ------- |
