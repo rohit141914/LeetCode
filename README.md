@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1829-maximum-units-on-a-truck](https://github.com/rohit141914/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1923-sentence-similarity-iii](https://github.com/rohit141914/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rohit141914/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rohit141914/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2043-simple-bank-system](https://github.com/rohit141914/LeetCode/tree/master/2043-simple-bank-system) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/rohit141914/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/rohit141914/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1797-design-authentication-manager](https://github.com/rohit141914/LeetCode/tree/master/1797-design-authentication-manager) |
 | [1904-second-largest-digit-in-a-string](https://github.com/rohit141914/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rohit141914/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rohit141914/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2043-simple-bank-system](https://github.com/rohit141914/LeetCode/tree/master/2043-simple-bank-system) |
 | [2122-count-special-quadruplets](https://github.com/rohit141914/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rohit141914/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1708-design-parking-system](https://github.com/rohit141914/LeetCode/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rohit141914/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rohit141914/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rohit141914/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/rohit141914/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rohit141914/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/rohit141914/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -589,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-number-of-substrings-with-only-1s](https://github.com/rohit141914/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/rohit141914/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rohit141914/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rohit141914/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rohit141914/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rohit141914/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/rohit141914/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -844,6 +848,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rohit141914/LeetCode/tree/master/0258-add-digits) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rohit141914/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rohit141914/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rohit141914/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rohit141914/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
