@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/rohit141914/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rohit141914/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/rohit141914/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/rohit141914/LeetCode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3429-special-array-i](https://github.com/rohit141914/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/rohit141914/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3469-maximum-height-of-a-triangle](https://github.com/rohit141914/LeetCode/tree/master/3469-maximum-height-of-a-triangle) |
