@@ -617,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3515-find-if-digit-game-can-be-won](https://github.com/rohit141914/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rohit141914/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rohit141914/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rohit141914/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rohit141914/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3945-digit-frequency-score](https://github.com/rohit141914/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Greedy
@@ -859,6 +860,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rohit141914/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rohit141914/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rohit141914/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rohit141914/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
 | ------- |
