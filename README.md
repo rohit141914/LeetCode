@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rohit141914/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rohit141914/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3829-design-ride-sharing-system](https://github.com/rohit141914/LeetCode/tree/master/3829-design-ride-sharing-system) |
+| [3945-digit-frequency-score](https://github.com/rohit141914/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -615,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rohit141914/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rohit141914/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rohit141914/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3945-digit-frequency-score](https://github.com/rohit141914/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Greedy
 |  |
 | ------- |
