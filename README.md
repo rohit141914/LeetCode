@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rohit141914/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rohit141914/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3829-design-ride-sharing-system](https://github.com/rohit141914/LeetCode/tree/master/3829-design-ride-sharing-system) |
+| [3941-password-strength](https://github.com/rohit141914/LeetCode/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/rohit141914/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
@@ -566,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rohit141914/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3636-check-balanced-string](https://github.com/rohit141914/LeetCode/tree/master/3636-check-balanced-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rohit141914/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3941-password-strength](https://github.com/rohit141914/LeetCode/tree/master/3941-password-strength) |
 ## Math
 |  |
 | ------- |
